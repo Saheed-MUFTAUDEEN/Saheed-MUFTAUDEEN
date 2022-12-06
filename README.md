@@ -1,16 +1,19 @@
-### Hi there 👋
+## *Muftaudeen*
+---
+**Engineer in Data Space** 
 
-<!--
-**Saheed-MUFTAUDEEN/Saheed-MUFTAUDEEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught Data Scientist with background in Engineering building my skills one step at a time. My transition to data space stem from a desire to solving real-life problems with data. Please, feel free to connect with me; I am more than happy to chat!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Analysis of COVID-19 dataset
+- ⚡ Fun fact: Whenever I am not getting my hands dirty with data, guess where I am: 
+
+
+
+I am on phone with my wife, lol.
+
+
+Cheers!!
+
+---
+### *Language and Tools*
