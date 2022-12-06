@@ -1,5 +1,6 @@
-## *Hi, I am Muftaudeen (a Father and Husband)*
+## *Hi, I am Muftaudeen* 
 ---
+
 **Engineer in Data Space** 
 
 I am a self-taught Data Scientist with background in Engineering building my skills one step at a time. My transition to data space stem from a desire to solving real-life problems with data. Please, feel free to connect with me; I am more than happy to chat!
