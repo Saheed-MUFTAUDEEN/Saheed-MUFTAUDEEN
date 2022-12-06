@@ -1,4 +1,4 @@
-## *Muftaudeen*
+## *Hi, I am Muftaudeen (a Father and Husband)*
 ---
 **Engineer in Data Space** 
 
@@ -10,7 +10,7 @@ I am a self-taught Data Scientist with background in Engineering building my ski
 
 
 
-I am on phone with my wife, lol.
+I am on phone with my beautiful wife, lol.
 
 
 Cheers!!
