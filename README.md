@@ -3,7 +3,7 @@
 
 **Engineer in Data Space** 
 
-I am a self-taught Data Scientist with background in Engineering building my skills one step at a time. My transition to data space stem from a desire to solving real-life problems with data. To acquire real world work experience, I am currently an intern at Hamoye AI Lab where I partcipate in a number of industry use case capstone projects. Please, feel free to connect with me; I am more than happy to chat!
+I am a self-taught Data Scientist with background in Engineering building my skills one step at a time. My transition to data space stem from a desire to solve real-life problems with data. To acquire real world work experience, I am currently an intern at Hamoye AI Lab where I partcipate in a number of industry use case capstone projects. Please, feel free to connect with me; I am more than happy to chat!
 
 
 - 🔭 I’m currently working on Analysis of COVID-19 dataset
