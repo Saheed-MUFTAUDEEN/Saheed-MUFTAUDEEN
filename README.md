@@ -9,14 +9,8 @@ To acquire the real world work experience, I am currently an intern at Hamoye AI
 
 
 - 🔭 I’m currently working on Analysis of COVID-19 dataset
-- ⚡ Fun fact: Whenever I am not getting my hands dirty with data, guess where I am: 
+- ⚡ Fun fact: Bachelor’s degrees in data science were practically non-existent five years ago, according to Discover Data Science. Now over 50 higher education institutions in the United States currently offer one. 
 
-
-
-I am on phone with my beautiful wife, lol.
-
-
-Cheers!!
 
 ---
 ### *Language and Tools*
