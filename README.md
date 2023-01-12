@@ -14,5 +14,4 @@ Please, feel free to connect with me; I am more than happy to chat!
 - 🔭 I’m currently working on a project title 'Tackling health crises in Africa'
 - ⚡ Fun fact: Bachelor’s degrees in data science were practically non-existent five years ago, according to Discover Data Science. Now over 50 higher education institutions in the United States currently offer one. 
 
----
-### *Language and Tools*
+
