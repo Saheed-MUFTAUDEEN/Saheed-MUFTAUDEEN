@@ -4,7 +4,7 @@ I am a self-taught Data Analyst / Data Scientist with background in Engineering 
 
 Currently, I am an intern at Hamoye AI lab where I am gaining hands-on experience in applying data science techniques to real-world problems. I am honing my skills in data preprocessing, statistical modeling, and machine learning, with a focus on using these tools to make informed decisions and drive business outcomes.
 
-I am passionate about using data to uncover insights and drive change, and I am always looking for new ways to expand my knowledge and capabilities in this field. My goal is to leverage my technical skills and analytical mindset to make an impact as a data analyst and data scientist.I also take interest in open-source technologies and enjoy contributing to them. I have a good understanding of data visualization tools such as Tableau and Power BI. 
+I am passionate about using data to uncover insights and drive change, and I am always looking for new ways to expand my knowledge and capabilities in this field. My goal is to leverage my technical skills and analytical mindset to make an impact as a data analyst and data scientist. I also take interest in open-source technologies and enjoy contributing to them. I have a good understanding of data visualization tools such as Tableau and Power BI. 
 
 Finally, I am always eager to learn new things and improve my skills, and I believe that the best way to do so is by sharing knowledge and collaborating with others in the community.
 
